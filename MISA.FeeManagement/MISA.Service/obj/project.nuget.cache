@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzgH3NzwqSKwF3uPX64ZU+mSr5y1LT+kpwoYv8zoGvi0vaFhN9o3FEQpTmAudtrRfE5AHTLZ/snwc81Y9FRnEQ==",
+  "success": true,
+  "projectFilePath": "D:\\Bài tập giai đoạn 1\\MISA.FeeManagement\\MISA.Service\\MISA.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thang-PC\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Thang-PC\\.nuget\\packages\\mysqlconnector\\1.2.1\\mysqlconnector.1.2.1.nupkg.sha512",
+    "C:\\Users\\Thang-PC\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

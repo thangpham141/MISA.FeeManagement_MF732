@@ -1,0 +1,14 @@
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.deps.json
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csprojAssemblyReference.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfoInputs.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfo.cs
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CoreCompileInputs.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CopyComplete
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.pdb
